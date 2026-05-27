@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "notifyuave",
+        "uuid": 5031822,
+        "checksum": "x7432g"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
